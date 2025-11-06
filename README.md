@@ -18,6 +18,9 @@ AI-powered professional budgeting software prototype built with React and Tailwi
 - Recharts for data visualization
 - Lucide React for icons
 
+## 🚀 Live Demo
+🔗 [View Live](https://itachi405.github.io/AiBudgetTracker)
+
 ## 📦 Installation
 
 ```bash
@@ -83,7 +86,7 @@ Builds the app for production to the `build` folder
 
 ## 👨‍💻 Author
 
-**itachi405**
+**Bishal Sutradhar Ovi**
 
 ## 📄 License
 
